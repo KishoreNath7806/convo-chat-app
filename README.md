@@ -77,4 +77,4 @@ Thank you to all open-source contributors and the **React, Firebase, Cloudinary 
 Built by **Kishore Nath C S**
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kishore-nath-c-s-332724310/)
 - 🐙 [GitHub](https://github.com/KishoreNath7806)
-- 📧 [Mail-ID](kishorenath2308@gmail.com)
+- 📧 Mail-ID - **kishorenath2308@gmail.com**
